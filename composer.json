@@ -1,5 +1,5 @@
 {
-  "name": "RockEinstein/library",
+  "name": "rockeinstein/library",
   "type": "library",
   "require": {
     "php": ">= 5.4",
