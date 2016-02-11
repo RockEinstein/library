@@ -1,0 +1,32 @@
+composer.phar
+composer.lock
+*.sublime*
+vendor/
+test-db/*
+!/test-db/empty
+test-result/*
+!/test-result/empty
+.idea/
+
+# Local configs
+config/autoload/*.local.php
+
+# Binary gettext files
+*.mo
+
+# Data
+data/logs/
+data/cache/
+data/sessions/
+data/tmp/
+temp/
+
+# Legacy ZF1
+demos/
+extras/documentation
+/nbproject/private/
+nbproject/
+
+# PhpStorm
+.idea
+
